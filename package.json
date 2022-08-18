@@ -1,0 +1,25 @@
+{
+  "name": "cypress-setup-project",
+  "version": "1.0.0",
+  "description": "This a setup of cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancobo/cypress-setup.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Cristian Cobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristiancobo/cypress-setup/issues"
+  },
+  "homepage": "https://github.com/cristiancobo/cypress-setup#readme"
+}
